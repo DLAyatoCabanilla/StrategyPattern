@@ -51,3 +51,5 @@ public class MainGame.Character {
         }
     }
 }
+![StrategyPattern](https://github.com/user-attachments/assets/5348cac3-b603-4491-a02e-7712be8f0e87)
+
